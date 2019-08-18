@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Aveli APP</string>
+    <string name="btn_open_dir">Open Directory</string>
+    <string name="btn_open_bth">Open Aveli</string>
+    <string name="title_activity_test_activity">test_activity</string>
+    <string name="bth_get_dir">Get Dir</string>
+    <string name="bth_set_download_dir">Set download dir</string>
+    <string name="get_bth_dir_btn">GET DEVICE DIRECTORY</string>
+    <string name="passwordTextLine_Hint">Enter the password</string>
+</resources>
